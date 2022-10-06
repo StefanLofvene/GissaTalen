@@ -1,7 +1,9 @@
-﻿Random rng = new Random();
+﻿//Gaffel, Mmm.
+
+Random rng = new Random();
 
 
-int hemligtNummer = rng.Next(1, 101);
+int hemligtNummer = rng.Next(1, 11);
 
 System.Console.WriteLine("Gissa på ett tal mellan 1 och 100");
 
